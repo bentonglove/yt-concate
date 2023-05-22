@@ -1,0 +1,863 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7Pg6OWfrKeU8N6VRvTrGwzsKwF8",
+  "nextPageToken": "CDIQAA",
+  "prevPageToken": "CBkQAQ",
+  "regionCode": "TW",
+  "pageInfo": {
+    "totalResults": 903,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zz4yynInvq-RWcgYW_IJ1u_ripk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JOqw_XArBDc"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-22T14:00:16Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "The WORST Debugging Mistake",
+        "description": "Whenever you are debugging make sure you check your variables! This is a very common mistake and the reason a lot of people ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JOqw_XArBDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JOqw_XArBDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JOqw_XArBDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-22T14:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iq4SFmLol_7mLt5wS6RFBfHq8bQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2zW5emKWof8"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-19T14:00:02Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "10 Years of Coding: What I Wish I Knew Before I Started",
+        "description": "As a coder of nearly 10 years, I've made my fair share of mistakes, including wasting time on the wrong skills. In this video, I'll ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2zW5emKWof8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2zW5emKWof8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2zW5emKWof8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-19T14:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ykrhabBMt7vVMkt9ysuX4t6flsA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qTWiG1krM2k"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-18T14:00:25Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "What is an API?",
+        "description": "So, what is an API. Well, API stands for Application Programming Interface and in this short I will describe it's purpose. Watch the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qTWiG1krM2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qTWiG1krM2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qTWiG1krM2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-18T14:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o8aPhsaypal2iRc4XG5OgtGcG7I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FIpbrnbVfJk"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-16T13:00:19Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Introduction to Machine Learning",
+        "description": "In this video, we'll be discussing the steps you can take to get started in machine learning. Whether you're a complete beginner or ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FIpbrnbVfJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FIpbrnbVfJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FIpbrnbVfJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-16T13:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HR9kd2zpMtXF4pWTUhJO7VSjdS4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h1T5AKYelBs"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-14T14:00:34Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "My FAVOURITE Web 3 Project Idea",
+        "description": "This is one of my favourite web 3/blockchain project ideas! Watch the full video here: https://youtu.be/q1uNSkRH9Y8 Master ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h1T5AKYelBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h1T5AKYelBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h1T5AKYelBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-14T14:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NRg_vwamUt-syOLVp8NEw1rYbBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qecsnAXtms4"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-13T14:00:35Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "The Truth About Learning Python in 2023",
+        "description": "Today, I will be helping you with Python to help hone your skills as a developer, prove to your current employer or even to a future ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qecsnAXtms4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qecsnAXtms4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qecsnAXtms4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-13T14:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "huiouSvg2QG_2bBoPILwI55QryY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-r-M5bW8W5A"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-12T14:00:00Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Everyone Should Learn SOME Machine Learning",
+        "description": "Machine learning is an incredibly interesting field and I encourage everyone to learn a little bit about it to gain an appreciation for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-r-M5bW8W5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-r-M5bW8W5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-r-M5bW8W5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-12T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ci5syD9HH0o0TNPoVOFCgPYshd8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iGJlrTI0H1Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-11T15:00:26Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Do These Projects To Get Better At Coding...",
+        "description": "These are some of the best projects you can do to improve your coding skills. Watch the full video here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iGJlrTI0H1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iGJlrTI0H1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iGJlrTI0H1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-11T15:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MNg8LXmCtrdpGrIUTdln6JbyGVE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ObUoqDqj6ck"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-10T14:00:22Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Software Systems &amp; Subsystems",
+        "description": "In this video I discuss the importance of software systems and subsystems and why designing your code beforehand is important.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ObUoqDqj6ck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ObUoqDqj6ck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ObUoqDqj6ck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-10T14:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YphYpUe7P4V1hSWA3FmoLD7n90s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V7nL0cDnx24"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-09T14:00:18Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Software System Deployments",
+        "description": "In this video I discuss the importance of software deployments and considering it from the start of your project. Watch the full video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V7nL0cDnx24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V7nL0cDnx24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V7nL0cDnx24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-09T14:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qE8NKX4x8Wp3EICrgQdJQsn9bD4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "waY3LfJhQLY"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-08T15:00:48Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "How to Make a Game in Python",
+        "description": "In today's video I will be giving you guys an introduction to Python Game Development using the Pygame module, which is a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/waY3LfJhQLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/waY3LfJhQLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/waY3LfJhQLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-08T15:00:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K8BN-ju1zEatpqdfLipU9AXhTFQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gi0-Or2HVA8"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-07T14:00:08Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "How To SPEED Up Python Code",
+        "description": "This video discusses how to make your python code faster by using cython and c extensions. Watch the full video here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gi0-Or2HVA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gi0-Or2HVA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gi0-Or2HVA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-07T14:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vLhu0zwwO-5ZGsGHdlBwuX_gfto",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZwCft4RSS_8"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-05T14:00:19Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "The THIRD Step To Learn A Programming Language FAST",
+        "description": "The third step to learn a new programming language as a fast as possible! Watch the full video here: https://youtu.be/RPrBGrQsIek ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZwCft4RSS_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZwCft4RSS_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZwCft4RSS_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-05T14:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BvDk8zIgfwefr_OuzF6pKenHL1s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6znDOTzZkfw"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-04T14:00:07Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "The SECOND Step To Learn a New Programming Language",
+        "description": "The second step to learn a new programming language quickly! Watch the full video here: https://youtu.be/RPrBGrQsIek Master ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6znDOTzZkfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6znDOTzZkfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6znDOTzZkfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-04T14:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A9vyCEBGOtGIZZsQ1IihF8su0AE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E3XxeE7NF30"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-03T15:00:13Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Learn JavaScript With This ONE Project!",
+        "description": "Today, you are going to be learning JavaScript by completing a project with me. I will explain all of the syntax, what it does and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E3XxeE7NF30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E3XxeE7NF30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E3XxeE7NF30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-03T15:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N-qD8Xpz9jRjd5dllztcekbjb0E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u2uYEMna-WU"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-02T14:00:34Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "The FIRST Step In Learning a New Programming Language",
+        "description": "This video discusses the first step in learning a new programming language. Watch the full video here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u2uYEMna-WU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u2uYEMna-WU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u2uYEMna-WU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-02T14:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oZi1hzzoF_JgjpATbo9KsKdTIHg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cYIECS3E894"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-01T14:00:35Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Do You Have DOMAIN Knowledge?",
+        "description": "One of the most important skills when it comes to being a competent and respected programmer is domain knowledge! Watch the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cYIECS3E894/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cYIECS3E894/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cYIECS3E894/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-01T14:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uIbXId6512f0vY8-5eYPyEnJJ4w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jU8g21HsoJY"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-28T14:00:26Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Master The Tools You Use Everyday",
+        "description": "As software engineers we are using tons of different software and tools to help us be productive. However, most of us could ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jU8g21HsoJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jU8g21HsoJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jU8g21HsoJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-28T14:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bYb5F1QLezq8p6JtiQia5UCPcqI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mkXdvs8H7TA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-27T14:00:24Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Python Live Chat Room Tutorial Using Flask &amp; SocketIO",
+        "description": "Today, I will be showing you guys how to make a live chat application using Python, Flask & SocketIO! Please keep in mind, this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mkXdvs8H7TA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mkXdvs8H7TA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mkXdvs8H7TA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-27T14:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HzjEDf1K2TGsccIPOepHBAClJEU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qYD68F0yQSA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-26T14:00:24Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "The BEST Machine Learning Resume Project!",
+        "description": "Some of the coolest python project ideas have to do with machine learning and artificial intelligence. This is one of my favourite AI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qYD68F0yQSA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qYD68F0yQSA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qYD68F0yQSA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-26T14:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1z6vASczQM3zqyLqSVbXZVYNltI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M5CPeGXcfgg"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-25T14:00:09Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Please Test Your Code!",
+        "description": "In this video I describe why you need to test your code as a programmer or software engineer! Watch the full video here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M5CPeGXcfgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M5CPeGXcfgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M5CPeGXcfgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-25T14:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "urK8CkfFSt2DGy1Lha7WxIs4yHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ev752v9bOak"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-24T14:00:11Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "A GREAT Python Resume Project Idea",
+        "description": "This is one of my favourite python resume project ideas. I hope you like it as well! Watch the full video here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ev752v9bOak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ev752v9bOak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ev752v9bOak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-24T14:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mT6uAp9DKamRGTozjJ6yT-4eGWg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jO9_vlc1_L8"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-23T14:00:28Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Habits Of GOD-Tier Programmers",
+        "description": "Today, I will be discussing you why habits are the most important factor if you want to be a God-tier programmer and most ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jO9_vlc1_L8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jO9_vlc1_L8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jO9_vlc1_L8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-23T14:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "alZ0Fsd4U9mNR7MewLnh8T51sIQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iv8_Of5rt7o"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-22T14:00:10Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "Sometimes You Just Need a Break!",
+        "description": "As programmers we can often times get overwhelmed with constant deadlines, bugs and countless other tasks we need to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iv8_Of5rt7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iv8_Of5rt7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iv8_Of5rt7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-22T14:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JaMEAEpb_LIZu9Kbx5qRLteLWqE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u1txg12Gxpk"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-19T14:00:36Z",
+        "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+        "title": "The Best Part Of Programming... Debugging!",
+        "description": "Ahh yes, everybody's favourite part of programming... debugging! Watch the full video here: https://youtu.be/7qH8prh4hpE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u1txg12Gxpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u1txg12Gxpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u1txg12Gxpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tech With Tim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-19T14:00:36Z"
+      }
+    }
+  ]
+}
